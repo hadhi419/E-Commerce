@@ -1,0 +1,23 @@
+# Java / Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio
+.vs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
