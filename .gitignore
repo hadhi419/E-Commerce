@@ -21,3 +21,8 @@ Thumbs.db
 
 # Environment
 .env
+
+
+#git add .
+#git commit -m "Your message here"
+#git push
